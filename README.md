@@ -17,6 +17,7 @@ Para abordar el problema, se han desarrollado y probado varios modelos de clasif
 
 ### Estructura del Repositorio
 La organización del proyecto es la siguiente:
+```
 src/
 │── data/                     # Contiene los datos utilizados en el proyecto  
 │   ├── Student_performance_data_.csv  
@@ -35,6 +36,7 @@ src/
 │   ├── __init__.py  
 │   ├── bootcampviztools.py  
 │   ├── data_sample.xlsx  
+```
 
 ### Autora
 Este proyecto ha sido desarrollado íntegramente por Mar Pérez.
@@ -58,6 +60,8 @@ To address the problem, multiple classification models were developed and tested
 
 ### Repository Structure
 The project is organized as follows:
+
+```
 src/
 │── data/                     # Contains the data used in the project  
 │   ├── Student_performance_data_.csv  
@@ -76,6 +80,7 @@ src/
 │   ├── __init__.py  
 │   ├── bootcampviztools.py  
 │   ├── data_sample.xlsx  
+```
 
 ### Author
 This project was entirely developed by Mar Pérez.
